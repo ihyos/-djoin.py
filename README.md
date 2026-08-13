@@ -1,5 +1,5 @@
 
-# 🤖 AUTO !DJOIN — Discord Automation
+# 🤖 AUTO !DJOIN - Discord Automation
 
 Uma ferramenta em **Python com interface via CMD** desenvolvida para automatizar o fluxo de execução periódica do comando `!djoin` em um servidor específico do Discord.
 
