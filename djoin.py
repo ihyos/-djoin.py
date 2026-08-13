@@ -1,18 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-AUTO !DJOIN — RLK MGC 33
-Sistema de automação Discord: envia !djoin periodicamente respeitando o cooldown.
-- Menu estilo CMD profissional com banner ASCII
-- Qualquer usuário configura: cola o ID do servidor -> comando montado sozinho
-- Se o envio falhar (cooldown ativo), insiste a cada poucos segundos até conseguir
 
-COMO USAR:
-1) pip install pyautogui pyperclip
-2) Abra o Discord, entre no servidor e deixe a janela maximizada
-3) Rode: python djoin.py
-4) [1] Configurar -> cole o ID do servidor -> [2] Iniciar
-5) Pra parar: mova o mouse pro CANTO SUPERIOR ESQUERDO da tela ou Ctrl+C
-"""
 
 import json
 import os
